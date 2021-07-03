@@ -1,0 +1,16 @@
+*:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.task-input > .input-group {
+  border-bottom: 1px solid #ddd;
+}
+
+.list-group > .list-group-item {
+  border: 0;
+}
+
+.text-strike {
+  text-decoration: line-through;
+}
