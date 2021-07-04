@@ -41,7 +41,8 @@ export default {
 <style scoped>
 .sidebar-toggler {
   position: absolute;
-  left: 30px;
-  top: 20px;
+  left: 20px;
+  top: 10px;
+  z-index: 999;
 }
 </style>
