@@ -3,14 +3,14 @@
   box-shadow: none !important;
 }
 
+.text-strike {
+  text-decoration: line-through;
+}
+
 .task-input > .input-group {
   border-bottom: 1px solid #ddd;
 }
 
 .list-group > .list-group-item {
   border: 0;
-}
-
-.text-strike {
-  text-decoration: line-through;
 }
